@@ -12,4 +12,7 @@ The major problems around PD is that it has a poorly thought out symbol layout.
 * (, ), {, }, [, ]
 ** The opening and closing symbols are oddly placed.  It makes so much more sense that finger used to open is the same finger on the closing hand.
 
+## Layout
 
+![rpd](https://github.com/catalinux17/keyboards/rpd.png)
+![rpd_shift](https://github.com/catalinux17/keyboards/rpd_shift.png)
