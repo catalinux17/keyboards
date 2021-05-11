@@ -14,5 +14,6 @@ The major problems around PD is that it has a poorly thought out symbol layout.
 
 ## Layout
 
-![rpd](https://github.com/catalinux17/keyboards/blob/master/rpd.PNG?raw=true)
-![rpd_shift](https://github.com/catalinux17/keyboards/blob/master/rpd_shift.PNG?raw=true)
+![rpd](https://github.com/catalinux17/keyboards/blob/master/rpd.png?raw=true)
+
+![rpd_shift](https://github.com/catalinux17/keyboards/blob/master/rpd_shift.png?raw=true)
