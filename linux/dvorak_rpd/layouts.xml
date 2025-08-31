@@ -4,3 +4,9 @@
             <description>simple and real programming dvorak</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>graphite</name>
+            <description>graphite</description>
+          </configItem>
+        </variant>
